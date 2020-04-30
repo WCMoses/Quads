@@ -1,0 +1,16 @@
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.csprojAssemblyReference.cache
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.Form1.resources
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.Properties.Resources.resources
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.csproj.GenerateResource.cache
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.csproj.CoreCompileInputs.cache
+C:\testDev\EfStarTests1\EfStarTests1\bin\Debug\EfStarTests1.exe.config
+C:\testDev\EfStarTests1\EfStarTests1\bin\Debug\EfStarTests1.exe
+C:\testDev\EfStarTests1\EfStarTests1\bin\Debug\EfStarTests1.pdb
+C:\testDev\EfStarTests1\EfStarTests1\bin\Debug\EntityFramework.dll
+C:\testDev\EfStarTests1\EfStarTests1\bin\Debug\EntityFramework.SqlServer.dll
+C:\testDev\EfStarTests1\EfStarTests1\bin\Debug\EntityFramework.xml
+C:\testDev\EfStarTests1\EfStarTests1\bin\Debug\EntityFramework.SqlServer.xml
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.csproj.CopyComplete
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.exe
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.pdb
+C:\testDev\EfStarTests1\EfStarTests1\obj\Debug\EfStarTests1.Migrations.Initial.resources
